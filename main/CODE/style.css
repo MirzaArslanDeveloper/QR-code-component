@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#main{
+    background-color:#d5e1ef;
+    height: 100vh;
+    width: 100vw-10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#box{
+    height: 480px;
+    width: 310px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5%;
+ }
+img{
+    height: 280px;
+    width: 280px;
+    border-radius: 5%;
+    margin-left: 5%;
+    margin-top: 15px;
+}
+h2{
+    padding-bottom: 20px;
+}
+#text-box{
+    margin-top: 20px;
+    margin-left: 15px;
+    text-align: center;
+    width: 280px;
+}
